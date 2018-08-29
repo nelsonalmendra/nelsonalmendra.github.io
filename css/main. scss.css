@@ -1,0 +1,78 @@
+.site-container {
+	text-align: center;
+	min-width: 300px;
+	max-width: 768px;
+    margin: 0 auto;
+	margin-top: 40px;
+}
+
+.site-title a {
+    color: #333332;
+	font-weight: bold;
+	font-size: 32px;
+	text-decoration: none;
+}
+
+.site-description {
+    color: #929292;
+	font-size: 15px;
+}
+
+.site-navigation {
+	display: block;
+	font-size: 15px;
+	margin-top: 20px;
+	border-bottom: 1px solid #eee;
+}
+
+.site-navigation  a{
+	margin: 10px;
+}
+
+.site-content {
+	text-align: left;
+	margin: 30px;
+}
+
+.site-content h2{
+	margin-bottom: 20px;
+	color: #337ab7;
+}
+
+.site-content p{
+	font-size: 	16px;
+}
+
+.site-content img{
+	margin-bottom: 20px;
+}
+
+.site-content sup{
+	font-size: 8px;
+}
+
+.site-content em{
+	font-size: 14px;
+	color: rgba(0, 0, 0, .68)
+}
+
+.site-footer {
+	margin-bottom: 20px;
+}
+
+.site-footer a{
+	margin: 10px;
+	text-decoration: none;
+}
+
+.form  label{
+	font-size: 16px;
+}
+
+.form  input{
+	margin-bottom: 10px;
+}
+
+.form  textarea{
+	margin-bottom: 10px;
+}
